@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\muzeyonetimi.Server.props" />
+</Project>

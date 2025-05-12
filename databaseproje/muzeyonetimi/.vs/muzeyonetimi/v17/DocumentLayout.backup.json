@@ -1,0 +1,910 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\data\\museumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\data\\museumcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\adminlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\adminlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\sanatciakimlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\sanatciakimlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\bagiscilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\bagiscilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\esersergilericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\esersergilericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\etkinlikkayitlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\etkinlikkayitlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\etkinlikturlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\etkinlikturlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\sanatakimlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\sanatakimlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\sanatcilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\sanatcilarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\sergilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\sergilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\etkinlikkaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\etkinlikkaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\ziyaretcigiriskayitlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\ziyaretcigiriskayitlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\esertransferleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\esertransferleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\etkinlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\etkinlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\sanatciakim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\sanatciakim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\ziyaretciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\ziyaretciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\ziyaretcigiriskayitlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\ziyaretcigiriskayitlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\etkinliklercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\etkinliklercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\eserbakimkayitlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\eserbakimkayitlaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\biletturlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\biletturlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\bagislarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\bagislarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\sanatakimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\sanatakimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\eserbakimkaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\eserbakimkaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\muzegelirlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\muzegelirlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\muzegeliri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\muzegeliri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\bagis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\bagis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\bagisci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\bagisci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\etkinlikturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\etkinlikturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\sergi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\sergi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\sanatci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\sanatci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\esersergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\esersergisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\eserturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\eserturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\esertransferlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\esertransferlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\eser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\eser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\models\\biletturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\models\\biletturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\ziyaretcilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\ziyaretcilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\eserturlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\eserturlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\controllers\\eserlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\controllers\\eserlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\muzeyonetimi.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\muzeyonetimi.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\muzeyonetimi.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\muzeyonetimi.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{482F45D5-BCF9-5CBA-3502-54FFC1A1A41F}|muzeyonetimi.client\\muzeyonetimi.client.esproj|solutionrelative:muzeyonetimi.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|c:\\users\\asus\\desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EBF79773-6D2D-45B1-A45E-BFBE9C02CAB9}|muzeyonetimi.Server\\muzeyonetimi.Server.csproj|solutionrelative:muzeyonetimi.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EtkinlikTurleriController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EtkinlikTurleriController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EtkinlikTurleriController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EtkinlikTurleriController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EtkinlikTurleriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:04:27.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EserSergileriController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserSergileriController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EserSergileriController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserSergileriController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EserSergileriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:44:27.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MuseumContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Data\\MuseumContext.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Data\\MuseumContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Data\\MuseumContext.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Data\\MuseumContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:50:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminlerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\AdminlerController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\AdminlerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\AdminlerController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\AdminlerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:11:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanatciAkimlariController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SanatciAkimlariController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\SanatciAkimlariController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SanatciAkimlariController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\SanatciAkimlariController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:11:14.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Program.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Program.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:40:55.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\PersonelController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\PersonelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:45:12.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BagiscilarController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\BagiscilarController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\BagiscilarController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\BagiscilarController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\BagiscilarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:07:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EtkinlikKayitlariController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EtkinlikKayitlariController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EtkinlikKayitlariController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EtkinlikKayitlariController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EtkinlikKayitlariController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:06:30.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanatAkimlariController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SanatAkimlariController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\SanatAkimlariController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SanatAkimlariController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\SanatAkimlariController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:10:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SergilerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SergilerController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\SergilerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SergilerController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\SergilerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:43:49.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanatcilarController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SanatcilarController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\SanatcilarController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\SanatcilarController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\SanatcilarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:42:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EtkinlikKaydi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EtkinlikKaydi.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\EtkinlikKaydi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EtkinlikKaydi.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\EtkinlikKaydi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:06:04.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZiyaretciGirisKayitlari.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\ZiyaretciGirisKayitlari.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\ZiyaretciGirisKayitlari.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\ZiyaretciGirisKayitlari.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\ZiyaretciGirisKayitlari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:48:32.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EserTransferleri.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserTransferleri.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\EserTransferleri.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserTransferleri.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\EserTransferleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:46:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Etkinlik.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Etkinlik.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Etkinlik.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Etkinlik.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Etkinlik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:52:22.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SanatciAkim.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\SanatciAkim.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\SanatciAkim.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\SanatciAkim.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\SanatciAkim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:10:58.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ziyaretciler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Ziyaretciler.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Ziyaretciler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Ziyaretciler.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Ziyaretciler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:47:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ZiyaretciGirisKayitlariController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\ZiyaretciGirisKayitlariController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\ZiyaretciGirisKayitlariController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\ZiyaretciGirisKayitlariController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\ZiyaretciGirisKayitlariController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:48:46.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EtkinliklerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EtkinliklerController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EtkinliklerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EtkinliklerController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EtkinliklerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:53:20.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EserBakimKayitlariController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserBakimKayitlariController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EserBakimKayitlariController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserBakimKayitlariController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EserBakimKayitlariController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:09:57.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BiletTurleriController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\BiletTurleriController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\BiletTurleriController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\BiletTurleriController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\BiletTurleriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:48:08.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BagislarController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\BagislarController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\BagislarController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\BagislarController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\BagislarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:08:26.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Admin.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:11:31.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SanatAkimi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\SanatAkimi.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\SanatAkimi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\SanatAkimi.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\SanatAkimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:10:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EserBakimKaydi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserBakimKaydi.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\EserBakimKaydi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserBakimKaydi.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\EserBakimKaydi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:09:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MuzeGelirleriController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\MuzeGelirleriController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\MuzeGelirleriController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\MuzeGelirleriController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\MuzeGelirleriController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:09:18.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MuzeGeliri.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\MuzeGeliri.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\MuzeGeliri.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\MuzeGeliri.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\MuzeGeliri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:08:58.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bagis.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Bagis.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Bagis.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Bagis.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Bagis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:08:12.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bagisci.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Bagisci.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Bagisci.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Bagisci.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Bagisci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:07:11.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EtkinlikTuru.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EtkinlikTuru.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\EtkinlikTuru.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EtkinlikTuru.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\EtkinlikTuru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:03:52.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EserSergisi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserSergisi.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\EserSergisi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserSergisi.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\EserSergisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:44:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EserTuru.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserTuru.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\EserTuru.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\EserTuru.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\EserTuru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:40:21.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Personel.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Personel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Personel.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:44:54.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sanatci.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Sanatci.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Sanatci.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Sanatci.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Sanatci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:42:02.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Sergi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Sergi.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Sergi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Sergi.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Sergi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:43:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EserTransferleriController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserTransferleriController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EserTransferleriController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserTransferleriController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EserTransferleriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:46:41.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Eser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Eser.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\Eser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\Eser.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\Eser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:42:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BiletTurleri.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\BiletTurleri.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\Models\\BiletTurleri.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\Models\\BiletTurleri.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\Models\\BiletTurleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:47:54.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ZiyaretcilerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\ZiyaretcilerController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\ZiyaretcilerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\ZiyaretcilerController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\ZiyaretcilerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:47:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EserTurleriController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserTurleriController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EserTurleriController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserTurleriController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EserTurleriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:41:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EserlerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserlerController.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\controllers\\EserlerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\controllers\\EserlerController.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\controllers\\EserlerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:43:02.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "muzeyonetimi.Server.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\muzeyonetimi.Server.http",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\muzeyonetimi.Server.http",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\muzeyonetimi.Server.http",
+              "RelativeToolTip": "muzeyonetimi.Server\\muzeyonetimi.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-01T14:32:05.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\vite.config.js",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\vite.config.js",
+              "RelativeToolTip": "muzeyonetimi.client\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T13:22:21.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "muzeyonetimi.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\muzeyonetimi.Server.csproj",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\muzeyonetimi.Server.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\muzeyonetimi.Server.csproj",
+              "RelativeToolTip": "muzeyonetimi.Server\\muzeyonetimi.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T12:35:43.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\appsettings.json",
+              "RelativeToolTip": "muzeyonetimi.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T13:21:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\eslint.config.js",
+              "RelativeToolTip": "muzeyonetimi.client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T13:22:00.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\index.html",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\index.html",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\index.html",
+              "RelativeToolTip": "muzeyonetimi.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-01T13:21:56.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\package.json",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\package.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\package.json",
+              "RelativeToolTip": "muzeyonetimi.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T13:22:09.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "muzeyonetimi.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:40:37.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\README.md",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\README.md",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\README.md",
+              "RelativeToolTip": "muzeyonetimi.client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-01T13:22:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\CHANGELOG.md",
+              "RelativeToolTip": "muzeyonetimi.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-01T13:21:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\.gitignore",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\.gitignore",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\.gitignore",
+              "RelativeToolTip": "muzeyonetimi.client\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T13:21:53.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "vite.svg",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\public\\vite.svg",
+              "RelativeDocumentMoniker": "muzeyonetimi.client\\public\\vite.svg",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\public\\vite.svg",
+              "RelativeToolTip": "muzeyonetimi.client\\public\\vite.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP8SURBVDhPrZRdbJNVGMd/p33b9Qtqt9HZbe2woKxsbGDYpk5DQAkTFcQPjJgY44XGEI3GmBBMNNmVNxoWojei8VITgyzGCwgRyRjJZM5JlvERt0C3dVu3rt3bD7r3bc/xYt0o4CX/5Mn5/uc85/zOgfsppZS4u6\u002Bnp\u002BdYc3PzB6VxlFIrcwGQUpLP58lms71Hjhw5PDExEbvT4S719PSMSillsVj83ygUCnJ4eFgODg7K48eP/xyJRDaVr7eWNwC6uroOd3R0VEsFBSOFzF1GZL7DmP0Rc/o3AP6dNNne1oHT6Qzb7fb6qampy4lEInGPob39NdHY2n74aq6i\u002BvpUP2sL3\u002BCc/ZZC7AyITUgVpBC/yMQcNDzSjs/n01wu18bKysrglStXLqTT6fSyoRC4H93nCz33zudrAqFn2iI2\u002B66aY3hnTjM8vpVf9A8ZqzjElta9yLlRMqabC0M3GBoaQtd1q8/ni5w/f/6nVCoV0wAczXu8Dfvf/\u002BTp7fXvvrxlzLVdfkriWo7\u002B7FGuh19kwnBycWyGrHmDV/xNNLZuoB4/hmHg8XgYGRlZzdIC4O96r7Mjsu6Ng00Da9tyH4vF4TxTopvcugPYsuA2C4TW13Jprkhf8iHEmhDV1VUEAgG8Xi9Wq3WVAgtAQ8Bz4IXG0aoW8ysxP2jiavmBLY8d4OC2AK\u002B3VJOZnsNnr0C4nQwmbMznLaX9KChDC0AD2Lwu9dTj3u\u002BdmXEHX5ufMfmHDbPwD1IpFJJ8UaNKs2Cz2xifWyKZNqhd60ApQNxmFECrDWj2t1pO19uiY\u002BKc5QvlbtstwsrC8mxKpgrzloFhmCwVChSUKg0r1F0PQJu8GtqfHP\u002B1YiDzthoN7in\u002BefGadWuNSygpUUohlQIUQirqkLQGPfg99pLZna8IQFN67NXZm3VL54o7MbNKczttls5wtdhW58br0NDzJgM3kkSTOVCKoM\u002BFx6GtJLB8jmXS8pP5zmS24vf\u002BGW1zSEs11ITrxJnpHGeuz6IME82uUfRUkSy6WIgv8KxFYLPc/gJWUl6RpbAonHuPLh2Kzcx/eW10PHFzOq0M9xoIrUdsfJilugbiShCPJwg7CjzfXIPdunLL98p69E38Ox5Mhi/1X\u002B1rCNjMTMps1DPSPRlfJDGf4lZiAVt6kaYHND7auYFKtx2EWEVGCEE0GuXUqVMndF2PWdfXMhCbYVfEPrujLt43Eqhvde1\u002B4slGv63IJq9Ge62bfU1\u002BXtpai8OmLW\u002BjhAuAsFiIRifo7e09oev6vV9Zd3d3n5RSmqZZCkOaxnIYq7G0WpqmKc\u002BePSuDwWAbK2CXSyn118mTJztL9WV0SgiV95Wzp\u002Bv638DCnU73Sf8B3E0j/55GTsEAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-01T13:21:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "muzeyonetimi.Server\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\CHANGELOG.md",
+              "RelativeToolTip": "muzeyonetimi.Server\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-01T13:21:37.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

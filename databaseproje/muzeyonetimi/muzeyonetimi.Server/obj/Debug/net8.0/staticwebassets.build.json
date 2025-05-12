@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "uSKufUXBhxQzpkwv4tc1NIWmVs4039P6AHqAeWM9v4E=",
+  "Source": "muzeyonetimi.Server",
+  "BasePath": "_content/muzeyonetimi.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.client\\muzeyonetimi.client.esproj",
+      "Version": 2,
+      "Source": "muzeyonetimi.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

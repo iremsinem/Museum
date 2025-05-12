@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51055",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\ASUS\\Desktop\\databaseproje\\muzeyonetimi\\muzeyonetimi.Server\\..\\muzeyonetimi.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
